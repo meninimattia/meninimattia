@@ -4,6 +4,6 @@
 currently I am doing a double degree program in Mathematical
 Engineering (UNIPD) and Numerical Methods for Engineering (UPC).
 - I am currently working on my Master's Thesis with the title:
-Pseudo-DNS modeling of turbulent flows
+Pseudo-DNS modeling of turbulent flows,
 Development of Reduced Order Modeling strategies for simulations at microscale level ​
 - I am interested in applied mathematics and numerical methods.
